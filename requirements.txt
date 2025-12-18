@@ -1,5 +1,5 @@
 streamlit
-seaborn>=0.12
+seaborn
 numpy
 matplotlib
 scikit-learn
